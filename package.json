@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com"
+    "url": "https://github.com/prometheanservices/musical-shell"
   },
   "bugs": {
-    "url": "https://github.com"
+    "url": "https://github.com/prometheanservices/musical-shell"
   },
-  "homepage": "https://github.com",
+  "homepage": "https://github.com/prometheanservices/musical-shell",
   "license": "ISC"
 }
